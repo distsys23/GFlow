@@ -11,8 +11,7 @@ pip install torch==1.12.0
 ```
 
 ## Configuration
-- Hyperparameters configuration file: `./Parameter.py`
-- Comparison algorithms configuration files : `./Comparison_Algorithms/`
+- Hyperparameters configuration file: `./parameter.py`
 
 ## Quick Start
 ```
