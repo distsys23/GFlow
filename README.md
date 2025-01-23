@@ -25,11 +25,8 @@ Workflows data with `.xml` format located in folder [XML_Scientific_Workflow](ht
 ![image](https://github.com/distsys23/img/blob/main/HOPS/scientific%20workflows.png)
 
 ## Code Structure
-- `Comparison_Algorithms`: comparison algorithms files.
 - `XML_Scientific_Workflow`: data of scientific workflow.
 - `preprocess`: functions of processing workflow data.
-- `main.py`: main function for HOPS.
-- `Q_learning_model.py`: Q-learning model for task prioritization phase.
-- `Parameter.py`: hyperparameters configuration.
-- `Environment.py`: environment file for workflow scheduling in hybrid clouds.
-- `DQN_model.py`: DQN model for task allocation phase.
+- `main.py`: main function for GFlow.
+- `parameter.py`: hyperparameters configuration.
+- `env.py`: environment file for workflow scheduling in hybrid clouds.
