@@ -1,6 +1,6 @@
 # Paper: GFlow: Hierarchical GNN-enhanced Multi-Agent Deep Reinforcement Learning for Privacy and Security-aware Workflow Scheduling
 
-This is an implementation code for our paper entitled: ''GFlow: Hierarchical GNN-enhanced Multi-Agent Deep Reinforcement Learning for Privacy and Security-aware Workflow Scheduling''
+This is an implementation code for our paper entitled: *GFlow: Hierarchical GNN-enhanced Multi-Agent Deep Reinforcement Learning for Privacy and Security-aware Workflow Scheduling*
 '
 ## Framework
 <img src="https://github.com/distsys23/img/blob/main/GFlow/framework.png" alt="GFlow framework" style="width:70%;">
